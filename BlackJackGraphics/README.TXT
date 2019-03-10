@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE:Blackjack Computer Game
+PURPOSE OF PROJECT:The create a computer version of blackjack with game rule automated and button actions.
+VERSION or DATE: 2/1/17
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS:Trevor Glassey and Eldridge Espanol
+USER INSTRUCTIONS: Run game.java
